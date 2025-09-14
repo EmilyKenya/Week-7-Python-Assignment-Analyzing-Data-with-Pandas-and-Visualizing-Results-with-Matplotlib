@@ -1,0 +1,17 @@
+Date,Region,Product,Units_Sold,Revenue
+2025-01-01,North,Phone,120,60000
+2025-01-01,South,Laptop,75,75000
+2025-01-01,East,Tablet,90,27000
+2025-01-01,West,Phone,100,50000
+2025-01-02,North,Laptop,65,65000
+2025-01-02,South,Tablet,110,33000
+2025-01-02,East,Phone,150,75000
+2025-01-02,West,Laptop,80,80000
+2025-01-03,North,Tablet,95,28500
+2025-01-03,South,Phone,130,65000
+2025-01-03,East,Laptop,70,70000
+2025-01-03,West,Tablet,85,25500
+2025-01-04,North,Phone,140,70000
+2025-01-04,South,Laptop,60,60000
+2025-01-04,East,Tablet,100,30000
+2025-01-04,West,Phone,115,57500
